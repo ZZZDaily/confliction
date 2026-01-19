@@ -1,8 +1,9 @@
 {
-  "generated": "2026-01-18T22:37:15.930Z",
+  "generated": "2026-01-19T00:02:52.004Z",
   "album": {
     "id": "confliction",
-    "name": "Confliction",
+    "name": "The Cave of Treasures",
+    "nameTranslated": true,
     "trackCount": 132,
     "featuredTrackId": 113
   },
